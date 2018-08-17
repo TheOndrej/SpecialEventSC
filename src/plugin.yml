@@ -1,0 +1,25 @@
+name: SpecialEvent
+version: 1.0
+author: TheOndraCZ
+main: me.TheOndraCZ.SpecialEvent.Main
+description: Plugin pro velky specialni event na StyleCraft
+commands:
+ pvpevent:
+  description: Prikaz pro pvp event
+ otazky:
+  description: Prikaz pro vedomostni test z SC
+ odpoved:
+  description: Prikaz pro vedomostni test z SC
+ setwarp:
+  description: Prikaz, ktery vytvori warp
+ warp:
+  description: Prikaz, ktery Te teleportuje na warp
+ delwarp:
+  description: Prikaz, ktery smaze warp
+ konzoleprikaz:
+  description: test
+ teleport:
+  description: random
+permissions:
+ specialevent.admin:
+  default: op
